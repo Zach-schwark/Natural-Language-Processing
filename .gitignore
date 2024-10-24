@@ -1,3 +1,8 @@
 
 # ignore csv files for the project
 *.csv
+
+Project/baseline
+Project/emotion_model
+Project/first_finetuning_model
+Project/second_finetuning
